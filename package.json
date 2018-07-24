@@ -9,7 +9,7 @@
     "express": "3.4.4",
     "jade": "1.0.2",
     "npm-stats": "1.1.0",
-    "superagent": "~0.17.0"
+    "superagent": "~2.0.0"
   },
   "engines": {
     "node": "0.10.33",
