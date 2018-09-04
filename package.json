@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "connect": "3.3.2",
-    "express": "3.4.4",
+    "express": "3.11.0",
     "jade": "1.0.2",
     "npm-stats": "1.1.0",
     "superagent": "~0.17.0"
